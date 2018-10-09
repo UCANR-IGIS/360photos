@@ -1,7 +1,5 @@
 # Sharing 360 Photos
 
-![](images/thetasc_turnon_147x148.png){class="indented4"}
-
 ![](images/work-in-progress_300x177.png)
 
 ## Panoramas

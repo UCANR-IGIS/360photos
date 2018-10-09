@@ -4,7 +4,7 @@ author: "by Andy Lyons"
 description: "This guide describes how to create immersive visualizations with consumer grade 360 photography hardware and software"
 site: bookdown::bookdown_site
 documentclass: book
-url: 'https\://ucanr-igis.shinyapps.io/360photos/'
+url: 'https\://www.github.com/ucanr-igis/360photos/'
 github-repo: "ucanr-igis/360photos"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
@@ -27,11 +27,9 @@ Although the equipment and software behind this technology have gotten dramatica
 
 This guide describes techniques for using consumer grade 360 photography hardware and software. We do not attempt to cover creating high quality 360 photos using high end DSLR cameras with special tripod heads and processing software. For that, see the many excellent tutorials online, YouTube videos, and online short courses available. This guide does also not cover 360 video, although many of the considerations will be the same.
 
-\
-[![](images/igis-anr_horiz_550x58.png)](http://igis.ucanr.edu/){target="_blank"}
-
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />This work by [Andy Lyons](http://igis.ucanr.edu/People/?facultyid=32909) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License</a>.
 
+![](images/igis-anr_horiz-stacked_260x65.png){style="display:none;"}
 
