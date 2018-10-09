@@ -1,0 +1,16 @@
+output_dir: docs
+book_filename: "360-photo-guide"
+rmd_files: ["index.Rmd",
+            "tech_overview.Rmd",
+            "equipment.Rmd",
+            "apps.Rmd", 
+            "shooting_tips.Rmd", 
+            "editing.Rmd",
+            "sharing360s.Rmd",
+            "tours.Rmd",
+            "glossary.Rmd",
+            "misc.Rmd",
+            "thetasc.Rmd", 
+            "gsv.Rmd", 
+            "helmet-mount.Rmd",
+            "workshop.Rmd"]

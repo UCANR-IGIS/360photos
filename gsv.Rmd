@@ -1,0 +1,13 @@
+# Google Street View Step-by-Step
+
+![](images/work-in-progress_300x177.png)
+
+**CAUTION**:
+
+The Google Street View app offers multiple ways for you to publish your 360s to Google Street View. You don't have to publish your photos, but if you do either intentionally or accidentally they will be visible to the whole world. It is however possible to remove published photos you own from Google Maps.
+
+
+
+
+
+

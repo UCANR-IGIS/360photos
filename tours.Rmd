@@ -1,0 +1,29 @@
+# Tours
+
+## Online Tour Platforms
+
+### RoundMe
+
+### Vizor
+
+https://site.vizor.io/
+
+### Google Expeditions
+
+
+## Data Management
+
+Transferring images from the camera to your laptop
+ - USB - use copy-paste, not cut-paste.
+
+## Desktop Software
+
+### Tour Builders
+
+Pano2VR
+
+PTGUI
+
+
+
+

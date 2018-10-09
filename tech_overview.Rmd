@@ -1,0 +1,28 @@
+# Technology Overview
+
+![](images/work-in-progress_300x177.png)
+
+
+## Panoramas vs Photospheres
+
+
+## File Formats
+
+picture of double-spherical and equirectangular
+
+
+EXIF tags
+
+
+## Cameras and Apps
+
+Uber workflow
+
+rectangular images -- panorama or photosphere -- tour
+
+take images
+stitch
+add hotspots
+assemble in tour
+share
+

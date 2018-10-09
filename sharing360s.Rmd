@@ -1,0 +1,37 @@
+# Sharing 360 Photos
+
+![](images/thetasc_turnon_147x148.png){class="indented4"}
+
+![](images/work-in-progress_300x177.png)
+
+## Panoramas
+
+Panoramas that don't require a special viewer can be shared the same way any still image 
+
+## Sharing individual photospheres
+
+### Facebook
+
+If needed, you can insert EXIF tags that tells FB your photo is a photosphere:
+
+https://www.360toolkit.co/tag-panorama-for-facebook.html
+
+## 360 Tour Platforms
+
+### RoundMe.com
+
+### Kuula.com
+
+### Google Tour Creator
+
+- https://vr.google.com/tourcreator
+- http://www.direporter.com/products/360o/ricoh-theta-v-googles-tour-creator
+
+
+## DIY and Offline Tours
+
+### Pano2VR
+
+
+
+

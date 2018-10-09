@@ -1,0 +1,33 @@
+# Shooting Tips
+
+## Positioning the Camera
+
+Make sure the camera is as vertical as possible. This will produce the image quality and eliminate or reduce the need to 'level' the image in your processing software. Keeping the camera vertical is most challenging when mounted on a selfie stick or helmet.
+
+In general, put the objets of interest in the front of the lens, not to the side. Image quality is best near the front of the lens.
+
+You get the best results when there are no objects very close (e.g., 10 ft) to the camera lens. If something is close to the camera, point one of the lenses toward it, not on the side. The camera will have an easier time stitching the two hemispheric photos together when the objects on the edges are farther away.
+
+It can be challenging for the photographer not to appear in a 360 photo. If the camera is triggered wirelessly, you may be able to duck behind a tree or other object. Note however if there are objects between the phone and the camera, the camera may not get the signal. If this becomes a problem, you may be able to set the camera to trigger on a timer, to give you enough time to get out of sight after pressing the shutter.
+
+If there are no objects to hide behind, consider where you'll be the least distraction for the viewer. It's also possible to 'Photoshop' yourself out of a 360, although this requires special software. If you plan to digitally remove yourself from the image, make yourself as small as possible and stand in front of a surface that will be easy to clone.
+
+Remember also that the GPS coordinates saved in the image file are usually taken from the mobile device that's controlling the 360 camera. Hence the farther you stand away from the camera, the less accurate the location will be. Depending on the application, this could be an issue.
+
+## Lighting
+
+You'll get the nicest image when all parts of the scene are lit evenly. Overcast days can be good days for photography. On clear days, you may want to avoid the early and late afternoon hours when the sun is low in the sky.
+
+If the scene is unevenly lit, for example some objects are in shadow, try using [HDR](glossary.html#hdr) mode if your camera supports it. Note however HDR mode doesn't work as well when objects in the photo are in motion which can result in blur.
+
+## Collecting Ancillary Data 
+
+Depending on the project, you may need to record other information about the area. For example you might take notes about objects in the photo to add later as textboxes or accompanying text, close-up photos with a DSLR camera, or even video clips. After the shoot, you'll need to match up your 360 photos with other data collected.
+
+To help you sync your 360 images with the other data, it helps to make sure all the devices are set to the same time. You can also keep a log of each of the 360 locations (i.e., nodes), and note the location name or number when you record other observations. If taking a series of accompanying photos or video, consider taking a picture of a notepad with the location name, or even just your hand, so when you copy the files to your competer you'll be able to easily see when you switched from one location to the next.
+
+## Field Kit
+
+- lens cloth
+- power pack (for recharging tablet and/or camera)
+- weights or sand bags or other  for tripod legs

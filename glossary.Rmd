@@ -1,0 +1,60 @@
+# Glossary
+
+**360 camera / spherical camera**. Cameras that have two or more fisheye lenses which can be triggered at once. These images can then be stitched into a 360 image either by the camera or an app. 
+
+<div class="indented2">
+![](images/thetas_fusion_gear360_436x230.jpg)
+*Spherical cameras: Ricoh Theta S, GoPro Fusion, Samsung Gear 360*
+</div>
+
+**360 photo**. A general term for a photo that wraps around 360 degrees horizontally. See also *360 panorama*.
+
+**360 panorama**. A panorama that wraps all the way around, but does not include directly above or below.
+
+**360 tour**. One or more 360 photos displayed interactively with links between them, hotspots you can click on, popup-windows, menus, etc. See also [tour node](#tournode).
+
+**cubic projection**. <span id="cubic"></span>Another way to store a 360 photo in a 2D file format. Each side of the image is saved a square image which collectively comprise a cube. Cubic projections are commonly used in 3D gaming software.
+
+<div class="indented2">
+![](images/eucalyptus_cubic_600x448.jpg)
+*The cubic projection stores each side of a 360 photo as a 2D image*
+</div>
+
+**equirectangular image format**. One of the image formats for a full 360 photo sphere, where the image is saved as a JPG with an aspect ratio of 2:1. See also [cubic projection](#cubic).
+
+<div class="indented2">
+![](images/eucalyptus_equirectangular_460x230.jpg)  
+*Equirectangular images are 360 images saved as a regular JPG with an aspect ratio of 2:1. The top and bottom look distorted when viewed as a regular image, but look fine in a 360 viewer.*
+</div>
+
+**EXIF data**. Information about a photo saved in the 'header' of the file. Typically this includes the camera model, time taken, GPS coordinates, etc.
+
+**GigaPan**. A tripod head that has a little motor and controller to automate taking a series of still images suitable for stitching into a panorama.
+
+**HDR**. <span id="hdr"></span> High Dynamic Range imaging is a technique for taking photos of scenes with a lot of contrast (e.g., very bright and very dark areas). Essentially, multiple photos are taken at different aperature settings, and combined using software. Because multiple photos are taken in succession, HDR photos of objects in motion can be blurry.
+
+**hemispheric format**. A format for photo sphere where two hemispheric photos are displayed side-by-side, not yet stitched.
+
+<div class="indented2">
+![](images/kearney_fisheye_460x230.jpg)  
+*Hemispheric or fish images are another format for 360 images saved as a regular JPG. The two sides still have to be stitched.*
+</div>
+
+**nadir**. The point directly below the camera
+
+**nodal point**. The exact center of a lens.
+
+**panorama**. A very wide photo that may or may not wrap all the way around, but typically does not include above or below.
+
+<div class="indented2">
+![](images/chobe_pano_600x216.jpg)  
+*Panorama photos are long and wide, but may or may not wrap all the way around*
+</div>
+
+**photogrammetry**. The science of reconstructing a 3D surface from a set of overlapping photos taken from different locations
+
+**photosphere**. A photo that wraps 360 degree horizontally as well above and below.
+
+**spherical panorama**. Same thing as a photosphere. 
+
+**tour node**. <span id="tournode"></span>A single 360 image in a tour

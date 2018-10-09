@@ -1,0 +1,10 @@
+# Editing 360 Photos
+
+## Destkop Viewers
+
+## Turning a Panorama into a Photosphere
+
+## Creating a Nadir Patch
+
+## (Re)injecting 360 Metadata
+
