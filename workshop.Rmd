@@ -2,9 +2,9 @@
 
 During the workshop, we will:
 
-1. Explore examples how other organizations are using 360 photos for education, business, and research
-1. Collect some of our own 360 photos
-1. Discuss how we might use them for environmental monitoring
+1. Explore examples how other organizations are using 360 photos for education, business, and research.
+1. Collect some of our own 360 photos using i) apps that allow you to take a 360 panorama or photosphere using just your phone's camera, and ii) a 360 camera (the Ricoh Theta SC).
+1. Discuss how we might use them for environmental monitoring.
 
 ## Apps to Install on Your Phone / Tablet {-}
 
@@ -16,10 +16,16 @@ In preparation, please install the following apps on your phone or tablet. If yo
 
 ![](images/google-cardboard_camera_100x100.png){class="midline"}**Cardboard Camera** [Android](https://play.google.com/store/apps/details?id=com.google.vr.cyclops){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/cardboard-camera/id1095487294){target="_blank"}
 
+![](images/google-street-view_100x100.png){class="midline"}**Google Street View** [Android](https://play.google.com/store/apps/details?id=com.google.android.street){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/google-street-view/id904418768){target="_blank"}
+
+----
+
+**Optional: Taking photos with the Theta SC**
+
+The Theta app is used to control the Theta SC Camera. Therefore only one person per camera needs this app.
+
 ![](images/thetasc_100x100.png){class="midline"}**Theta**
 [Android](https://play.google.com/store/apps/details?id=com.theta360){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/ricoh-theta/id1023254741){target="_blank"}
-
-![](images/google-street-view_100x100.png){class="midline"}**Google Street View** [Android](https://play.google.com/store/apps/details?id=com.google.android.street){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/google-street-view/id904418768){target="_blank"}
 
 ## Sample 360 Images {- .hidden}
 

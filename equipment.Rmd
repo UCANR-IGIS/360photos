@@ -2,7 +2,7 @@
 
 ![](images/work-in-progress_200x118.png)
 
-## Cameras
+## Cameras {.hidden}
 
 ### Ricoh Theta series
 
