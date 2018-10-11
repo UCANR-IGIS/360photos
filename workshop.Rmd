@@ -1,12 +1,18 @@
 # Workshop Materials
 
-## Phone / Tablet Apps
+During the workshop, we will:
 
-During the workshop, we'll be looking at how people are using 360 photos and tours for education, business, and even research. We'll also collect some of our own 360 photos and discuss how we might use them.
+1. Explore examples how other organizations are using 360 photos for education, business, and research
+1. Collect some of our own 360 photos
+1. Discuss how we might use them for environmental monitoring
 
-In preparation, please install the following apps on your phone or tablet. If your device doesn't have enough memory or you encounter technical problems, don't worry. We'll deal with it at the workshop.
+## Apps to Install on Your Phone / Tablet {-}
+
+In preparation, please install the following apps on your phone or tablet. If your device doesn't have enough memory or you encounter technical problems, *don't worry*, there will be other options available.
 
 ![](images/google-cardboard_100x100.png){class="midline"}**Google Cardboard**. [Android](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/google-cardboard/id987962261){target="_blank"}
+
+![](images/google-expeditions_100x100.png){class="midline"}**Google Expeditions** [Android](https://play.google.com/store/apps/details?id=com.google.vr.expeditions){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/expeditions/id1131711060){target="_blank"}
 
 ![](images/google-cardboard_camera_100x100.png){class="midline"}**Cardboard Camera** [Android](https://play.google.com/store/apps/details?id=com.google.vr.cyclops){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/cardboard-camera/id1095487294){target="_blank"}
 
@@ -15,9 +21,9 @@ In preparation, please install the following apps on your phone or tablet. If yo
 
 ![](images/google-street-view_100x100.png){class="midline"}**Google Street View** [Android](https://play.google.com/store/apps/details?id=com.google.android.street){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/google-street-view/id904418768){target="_blank"}
 
-![](images/google-expeditions_100x100.png){class="midline"}**Google Expeditions** [Android](https://play.google.com/store/apps/details?id=com.google.vr.expeditions){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/expeditions/id1131711060){target="_blank"}
+## Sample 360 Images {- .hidden}
 
-## Sample 360 Images
+*Coming soon!*
 
 
 

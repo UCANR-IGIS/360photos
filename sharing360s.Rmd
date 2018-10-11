@@ -1,10 +1,10 @@
 # Sharing 360 Photos
 
-![](images/work-in-progress_300x177.png)
+![](images/work-in-progress_200x118.png)
 
 ## Panoramas
 
-Panoramas that don't require a special viewer can be shared the same way any still image 
+Panoramas that don't require a special viewer can be shared the same way any photo is shared.
 
 ## Sharing individual photospheres
 
@@ -26,7 +26,7 @@ https://www.360toolkit.co/tag-panorama-for-facebook.html
 - http://www.direporter.com/products/360o/ricoh-theta-v-googles-tour-creator
 
 
-## DIY and Offline Tours
+## Offline Tours
 
 ### Pano2VR
 

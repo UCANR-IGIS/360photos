@@ -26,3 +26,12 @@ div.gomiddle {
   vertical-align:middle;
   padding: 2em 2em 1em;
 }
+span.authoremail:before {
+  content: '(andlyons@ucanr.edu)';
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color:DarkBlue;
+  cursor: pointer;  
+}
+
+
