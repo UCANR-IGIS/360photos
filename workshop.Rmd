@@ -22,7 +22,7 @@ In preparation, please install the following apps on your phone or tablet. If yo
 
 **Optional: Taking photos with the Theta SC**
 
-The Theta app is used to control the Theta SC Camera. Therefore only one person per camera needs this app.
+The Theta app is used to control the Theta SC Camera. Therefore only one person per camera needs this app. 
 
 ![](images/thetasc_100x100.png){class="midline"}**Theta**
 [Android](https://play.google.com/store/apps/details?id=com.theta360){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/ricoh-theta/id1023254741){target="_blank"}
