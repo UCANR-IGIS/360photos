@@ -16,6 +16,9 @@ td.appdesc {
   text-align: left;
   border-style:none;
 }
+.goright {
+  float:right;
+}
 div.gomiddle {
   float:right;
   vertical-align: middle;

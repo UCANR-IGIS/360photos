@@ -1,5 +1,7 @@
 # Editing 360 Photos
 
+![](images/work-in-progress_200x118.png)
+
 ## Destkop Viewers
 
 ## Turning a Panorama into a Photosphere

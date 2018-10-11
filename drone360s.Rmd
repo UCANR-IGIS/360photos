@@ -1,0 +1,19 @@
+# Drone 360s
+
+![](images/work-in-progress_200x118.png)
+
+Mounting a 360 Camera on Your Drone - not recommended
+
+Hangar - makes it easy, stitching done online. Requires a DJI drone and a iOS device
+
+```{r hangarpano, echo=FALSE, screenshot.opts = list(delay = 5), cache = TRUE}
+knitr::include_url("https://viewer.hangar.com/360?productId=bYLR7Lrm")
+```
+
+Litchi - Panorama mode, have to stitch on your own
+
+Mavic 2 - has a built-in 360 mode
+
+
+
+
