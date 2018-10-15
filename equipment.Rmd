@@ -1,18 +1,14 @@
 # Equipment
 
+## Cameras 
+
 ![](images/work-in-progress_200x118.png)
 
-## Cameras {.hidden}
-
-### Ricoh Theta series
+### Ricoh Theta series 
 
 The Ricoh Theta V, S, and SC are consumer grade 360 cameras that produce very good results. 
 
-Key Specs: 
-
-Theta SC
-
-resolution: 14 MPx ()
+Theta SC. resolution: 14MP
 
 See http://www.threesixtycameras.com/ricoh-theta-v-vs-ricoh-theta-s/
 
@@ -21,20 +17,20 @@ See http://www.threesixtycameras.com/ricoh-theta-v-vs-ricoh-theta-s/
 
 ![](images/gear360_410x380.jpg)
 
-Gear 360 Specs:
+Gear 360 / Gear 360 (2017) Specs:
 
-Resoultion: 30MP (7776 x 3888)
-Gear 360 still image resolution:	30MP (2x 15MP sensors)
-Gear 360 (2017) still image resolution:	15MP (2x 8.4MP sensors)
+- Resoultion: 30MP (7776 x 3888)  
+- Gear 360 still image resolution:	30MP (2x 15MP sensors)  
+- Gear 360 (2017) still image resolution:	15MP (2x 8.4MP sensors)
 
 See also: 
 
-https://www.androidcentral.com/samsung-gear-360-2017-vs-gear-360-2016
+- https://www.androidcentral.com/samsung-gear-360-2017-vs-gear-360-2016
 
 
 ## Phone & Tablets
 
-Things to think about when selecting a phone or tablet to use with your 360 camera:
+Features to think about when selecting a phone or tablet to use with your 360 camera:
 
 **Location enabled**. Most 360 cameras don't have GPS receivers in them. Instead, they rely on the location from the device that triggers it. Therefore if you want your photos to have location saved in the EXIF data, make sure your phone or tablet is equipped with a GPS receiever (not all tablets have this feature), and location services are turned on.
 
@@ -48,19 +44,29 @@ Note however there's a trade-off between using a tripod with a smaller base and 
 
 To improve stability, consider using a regular tripod but only extend the legs as far as needed for stability. Light stands can work well also. You can also anchor the legs with weights, sand bags, or stakes.
 
+![](images/monopod_sandbags_400x300.jpg)  
+*Sandbags, weights, or stakes can help anchor the legs of a monopod on soft ground*
+
 ## Painters Pole
 
 For a higher perspective that doesn't require the use of a drone, you can mount your camera on top of a painters pole or even a broomstick with a threaded end. You'll also need an adapter with a 1/4" thread that can  screw on top of the pole, such as ProPole from [ClickSnap](https://www.clicksnap.net/){target="_blank"}. 
 
+![](images/painters-pole_375x500.jpg){.indented2}
+
 ## Helmet Mount
 
-A helmet mount is useful for recording photos using your camera's automatic time lapse mode while walking. This is a common way of capture 360 photos for Street View.
+A helmet mount is useful for recording photos using your camera's automatic time lapse mode while walking. This is a common way of capturing 360 photos for a trail or transect that you want to share via Google Street View. 
+
+![](images/helmet-walking_480x640.jpg)  
+*When wearing a helmet mount, remember to keep your head up and look forward so the camera stays vertical*
+
 
 For instructions on building a helmet mount from a skateboard helmet, see the Appendix [Building a Helmet Mount](#helmet-mount-appendix).
 
 ## Accessories 
 
-Tripod ball head 
+Tripod ball head. 
 
+Power pack.
 
 

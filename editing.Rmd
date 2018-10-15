@@ -2,11 +2,50 @@
 
 ![](images/work-in-progress_200x118.png)
 
-## Destkop Viewers
+## Editing Tasks
 
-## Turning a Panorama into a Photosphere
+### Stitching
 
-## Creating a Nadir Patch
+- connecting adjacent images
+- projecting into 360 format
+- filling in the sky / nadir
+- image corrections
+   + lens distortion
+   + vignetting
+- color enhancements
+   + contrast and brightness
+   + color transformations
 
-## (Re)injecting 360 Metadata
+### Editing a Stitched 360 Image
+
+- adding a nadir patch
+- leveling
+- (re)injecting 360 Metadata
+
+## Software
+
+### Stitching
+
+**Commercial**
+
+- [PTGui](https://www.ptgui.com/){target="_blank"} 
+- [AutoPano](http://www.kolor.com/){target="_blank"}
+- [Panorama Factory](http://www.panoramafactory.com/){target="_blank"}
+
+**Free & Open Source**
+
+- [Hugin](http://hugin.sourceforge.net/){target="_blank"}
+- [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/){target="_blank"}
+
+### Viewers
+
+[Panini](https://sourceforge.net/projects/pvqt/){target="_blank"}
+
+see also (http://wiki.panotools.org/Panorama_Viewers){target="_blank"}
+
+### Tour Builders
+
+360 tour builders create clickable links between 360 photos, as well as labels, clickable hotspots, popup windows, sounds and video, etc. 
+
+There are both online and desktop tour builds. For more info, see the [Tours](tours.html) section. 
 

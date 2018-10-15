@@ -29,9 +29,15 @@ The Theta app is used to control the Theta SC Camera. Therefore only one person 
 ![](images/thetasc_100x100.png){class="midline"}**Theta**
 [Android](https://play.google.com/store/apps/details?id=com.theta360){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/ricoh-theta/id1023254741){target="_blank"}
 
-## Sample 360 Images {- .hidden}
+## Slides
 
-*Coming soon!*
+Tuesday: **Technology Overview**
+
+Wednesday: **Taking 360 Photos for Immersive Visualization**
+
+
+
+
 
 
 

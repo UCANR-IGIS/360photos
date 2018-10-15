@@ -3,7 +3,7 @@
 **360 camera / spherical camera**. Cameras that have two or more fisheye lenses which can be triggered at once. These images can then be stitched into a 360 image either by the camera or an app. 
 
 <div class="indented2">
-![](images/thetas_fusion_gear360_436x230.jpg)
+![](images/thetas_fusion_gear360_436x230.jpg)  
 *Spherical cameras: Ricoh Theta S, GoPro Fusion, Samsung Gear 360*
 </div>
 
@@ -13,12 +13,16 @@
 
 **360 tour**. One or more 360 photos displayed interactively with links between them, hotspots you can click on, popup-windows, menus, etc. See also [tour node](#tournode).
 
+<span id="ar">**AR**</span>. Agumented Reality. Visualization technology whereby a virtual objects are overlaid on top of what is actually visible. See also [VR](#vr).
+
 **cubic projection**. <span id="cubic"></span>Another way to store a 360 photo in a 2D file format. Each side of the image is saved a square image which collectively comprise a cube. Cubic projections are commonly used in 3D gaming software.
 
 <div class="indented2">
-![](images/eucalyptus_cubic_600x448.jpg)
+![](images/eucalyptus_cubic_600x448.jpg)  
 *The cubic projection stores each side of a 360 photo as a 2D image*
 </div>
+
+**cylindrical panorama**. Cylindrical panorama images have a field of view of less than 360º. Also called  partial panoramas. 
 
 **equirectangular image format**. One of the image formats for a full 360 photo sphere, where the image is saved as a JPG with an aspect ratio of 2:1. See also [cubic projection](#cubic).
 
@@ -44,6 +48,8 @@
 
 **nodal point**. The exact center of a lens.
 
+**partial panorama**. Partial panorama images have a field of view of less than 360º. Also called cylindrical panoramas. 
+
 **panorama**. A very wide photo that may or may not wrap all the way around, but typically does not include above or below.
 
 <div class="indented2">
@@ -58,3 +64,5 @@
 **spherical panorama**. Same thing as a photosphere. 
 
 **tour node**. <span id="tournode"></span>A single 360 image in a tour
+
+<span id="vr">**VR**</span>. Virtual Reality. Visualization technology that renders objects in a 3D environment. See also [AR](#ar).

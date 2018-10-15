@@ -1,4 +1,4 @@
-# Technology Overview
+# Technology Overview {.hidden}
 
 ![](images/work-in-progress_200x118.png)
 
@@ -8,21 +8,17 @@
 
 ## File Formats
 
-picture of double-spherical and equirectangular
-
-
 EXIF tags
 
+Projections: Double-spherical, equirectangular, and cubic
 
 ## Cameras and Apps
 
-Uber workflow
+## Workflow
 
-rectangular images -- panorama or photosphere -- tour
-
-take images
-stitch
-add hotspots
-assemble in tour
-share
+1. take images
+1. stitch
+1. add hotspots
+1. assemble in tour
+1. share
 
