@@ -33,7 +33,7 @@ Many of the online platforms that specialize in creating and/or hosting 360 tour
 </td>
 </tr></table>
 
-## Apps to take 360 photos using just your phone
+## Smartphone camera apps
 
 <table>
 <tr style="background-color:transparent;">
@@ -65,7 +65,7 @@ Many of the online platforms that specialize in creating and/or hosting 360 tour
 
 See also the [Google Street View](#gsv) app below, which also allows you to take 360 photos using just your phone.
 
-## Camera-Specific Apps
+## 360 Camera Apps
 
 <table>
 <tr style="background-color:transparent;">

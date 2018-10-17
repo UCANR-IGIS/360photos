@@ -42,6 +42,9 @@ A tripod or monopod gets the camera off the ground and helps you stablize it. Be
 
 Note however there's a trade-off between using a tripod with a smaller base and its stability. Although 360 cameras are not terribly heavy, a gust of wind or uneven ground could topple it over. Also, soft ground such as grass or leaf liter can make it difficult for the legs to stay put.
 
+![](images/light-stand-tablet-mount_480x640.jpg)  
+*Light stand with a tablet holder mount*
+
 To improve stability, consider using a regular tripod but only extend the legs as far as needed for stability. Light stands can work well also. You can also anchor the legs with weights, sand bags, or stakes.
 
 ![](images/monopod_sandbags_400x300.jpg)  
