@@ -31,9 +31,9 @@ The Theta app is used to control the Theta SC Camera. Therefore only one person 
 
 ## Slides {-}
 
-Tuesday: [**Technology Overview**](https://docs.google.com/presentation/d/1JJGJbvTqhumWvIIffHnHNCLPl3eK3AcUBfcGf7ru3_Q/edit?usp=sharing){target="_blank"}
+Tuesday: [**Technology Overview**](https://docs.google.com/presentation/d/1jMXsJMrD7vQOC9hWKRdl-Kwlivpv_ocrGD3SmBD1YpM/edit?usp=sharing){target="_blank"}
 
-Wednesday: **Taking 360 Photos for Immersive Visualization**
+Wednesday: [**Taking 360 Photos**](https://docs.google.com/presentation/d/1bCWCHSWf5WsleSQwob97nlyPrc0ZLplcY_HNY0vltLw/edit?usp=sharing){target="_blank"}
 
 
 
