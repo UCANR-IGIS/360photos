@@ -1,11 +1,12 @@
-# Apps Overview
+# Apps
 
-Apps that run on a phone or tablet are commonly used in 360 photography for several functions:
+Mobile apps are commonly used in 360 photography for several functions:
 
-- viewing 360 photos interactively or with a VR headset
-- taking a series of still images and stitching them into a panorama or photo sphere
+- viewing 360 photos on the phone either by itself or inserted in a VR headset
+- taking a series of still images and stitching them into a panorama or photosphere
 - controlling a 360 camera
-- uploading 360 images to the cloud to share
+- publishing 360 images in the cloud
+- controlling a drone to take photos for a 360 panorama 
 
 ## 360 Viewer Apps
 
@@ -36,18 +37,11 @@ Many of the online platforms that specialize in creating and/or hosting 360 tour
 ## Smartphone camera apps
 
 <table>
-<tr style="background-color:transparent;">
-<td class="appicon" style="border:none;">
-![](images/google-cardboard_camera_100x100.png)</td>
-<td class="appdesc" style="border:none;">**Cardboard Camera**. [Android](https://play.google.com/store/apps/details?id=com.google.vr.cyclops){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/cardboard-camera/id1095487294){target="_blank"}
-<p>Google Cardboard Camera makes it easy to take nice panoramas. Features include exposure lock, which minimizes vertical banding, and recording sound. You can share panoramas you take via the usual options.</p>
-</td>
-</tr>
 
 <tr style="background-color:transparent;">
 <td class="appicon" style="border:none;">![](images/google-camera_100x100.png)</td>
 <td class="appdesc" style="border:none;">**Google Camera**. 
-<p>The [Google Camera](https://en.wikipedia.org/wiki/Google_Camera){target="_blank"} app is only available on Nexus and Pixel Android devices (phones and tablets manufactured by Google). Unofficial versions may be available for other phones. It includes four panorama modes (Horizontal, Vertical, Wide-angle and Fisheye) as well as the ability to take a full-360 photosphere.</p>
+<p>The [Google Camera](https://en.wikipedia.org/wiki/Google_Camera){target="_blank"} app is  pre-installed on Nexus and Pixel Android devices (phones and tablets manufactured by Google). Unofficial versions may be available for other phones. It includes four panorama modes (Horizontal, Vertical, Wide-angle and Fisheye) as well as the ability to take a full-360 photosphere.</p>
 </td>
 </tr>
 
@@ -61,11 +55,25 @@ Many of the online platforms that specialize in creating and/or hosting 360 tour
 </td>
 </tr>
 
+<tr style="background-color:transparent;">
+<td class="appicon" style="border:none;">
+![](images/google-cardboard_camera_100x100.png)</td>
+<td class="appdesc" style="border:none;">**Cardboard Camera**. [Android](https://play.google.com/store/apps/details?id=com.google.vr.cyclops){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/cardboard-camera/id1095487294){target="_blank"}
+<p style="font-style:italic;">No longer available</p>
+<p style="text-decoration:line-through;">Google Cardboard Camera makes it easy to take nice panoramas. Features include exposure lock, which minimizes vertical banding, and recording sound. You can share panoramas you take via the usual options.</p>
+</td>
+</tr>
+
+
 </table>
 
 See also the [Google Street View](#gsv) app below, which also allows you to take 360 photos using just your phone.
 
-## 360 Camera Apps
+## 360 Camera Manufacturer Apps
+
+When you buy a 360 camera, you almost always have to download and install an app from the manufacturer to configure your camera. These apps also allow you to take pictures via WiFi or Bluetooth, and may  have additional features such as sharing your 360 photos online, editing them, time lapse photography, video editing, etc.
+
+\
 
 <table>
 <tr style="background-color:transparent;">
@@ -114,11 +122,18 @@ For additional info, see the Appendix on [Google Street View Step-by-Step](gsv.h
 ## Drone 360 Apps
 
 <table>
-<tr style="background-color:transparent;">
-<td class="appicon" style="border:none;">![](images/hangar360_100x100.png)</td>
-<td class="appdesc" style="border:none;">**Hangar 360 for DJI Drones**. Android *- not supported* | [iTunes](https://itunes.apple.com/us/app/hangar-360-for-dji-drones/id1171912653){target="_blank"}
 
-<p>The Hangar 360 app will fly your drone to 300 feet, take 23 still images in different directions and angles, and then land automatically. There's also an option to manually fly it to a location of your choosing, and then activate the picture-taking. At any point, you can take over control (which is probably a good idea for landing). After it lands, *don't turn off the drone*. Wait for the images to transfer from the drone to your device. After the images have been copied to your device, you can choose to upload them to Hangar's cloud processing services. They will stitch the images together, and send you a URL. The results are spectacular. The one potential caveat about Hangar is that if you use their cloud processing services, your 360 will be publicly viewable.</p>
+<tr style="background-color:transparent;">
+<td class="appicon" style="border:none;">![](images/dji_go4_100x100x256.png)<br/>
+![](images/dji-fly_100x100x256.png)</td>
+<td class="appdesc" style="border:none;">**DJI GO 4**. [Android](https://play.google.com/store/apps/details?id=dji.go.v4){target="_blank"} | [iTunes](https://itunes.apple.com/us/app/dronepan/id1026329337){target="_blank"}
+
+**DJI GO 4** (Phantom 4, Mavic Pro, Phantom 4 Pro, or Inspire 2) and **DJI Fly** (Mavic Air 2, Mini 2, and Mavic Mini) cover the bulk of DJI's consumer drones. If you have one of these drones, you need one of these apps to set important configuration settings such as the return-to-home altitude. They also both feature a panorama camera mode. To use it, you manually fly to your photo location, make sure the camera is in panorama mode, then trigger the camera. The app will then take control of the drone and capture a sequence of photos (up to 34 for a full 360 panorama). The app will even stitch the photos for you, either immediately or after the flight. 
+
+These apps actually have 4 panorama modes - sphere (full 360), 180 (very wide), horizontal (less wide), and vertical. For details, see the app documentation or tutorials like [this one for DJI GO 4](https://www.youtube.com/watch?v=8DoHaxWpu1s){target="_blank" rel="noopener"} on YouTube.
+
+The panorama stitched in the app is relatively low resolution (4096 x 2048), so while its great as a preview and may be fine for social media, it may not be the ultimate product. Fortunately One of the nice features of these apps is that the photos the drone takes remain on the memory card. This gives you the option of stitching them with your own software if you want a higher resolution or want to manually correct some of the edges.
+
 </td>
 </tr>
 
@@ -135,10 +150,21 @@ DronePan is only available for iPhones and iPads running iOS 10.2 or later, and 
 
 <tr style="background-color:transparent;">
 <td class="appicon" style="border:none;">![](images/litchi_100x100.png)</td>
-<td class="appdesc" style="border:none;">**Litchi for DJI Drones**. Android *- not supported* | [iTunes](https://itunes.apple.com/us/app/litchi-for-dji-drones/id1059218666){target="_blank"}
-<p>Litchi is a full-featured mission planning and flight management app. Among the many flight modes is a Panorama mode that will take a series of images at different angles and pitches. Stitching is not supported. Litchi costs $23.</p>
+<td class="appdesc" style="border:none;">**Litchi for DJI Drones**. [Android](https://play.google.com/store/apps/details?id=com.aryuthere.visionplus){target="_blank" rel="noopener"} | [iTunes](https://itunes.apple.com/us/app/litchi-for-dji-drones/id1059218666){target="_blank"}
+<p>Litchi is a full-featured mission planning and flight management app. Among the many flight modes is a Panorama mode that will take a series of images at different angles and pitches. Stitching is not supported. Litchi costs $23-$25.</p>
+<p>For more info on Litchi, see the [Litchi](#litchi_appendix) Appendix.</p>
+
 </td>
 </tr>
+
+<tr style="background-color:transparent;">
+<td class="appicon" style="border:none;">![](images/hangar360_100x100.png)</td>
+<td class="appdesc" style="border:none; text-decoration:line-through;">**Hangar 360 for DJI Drones*
+<p style="font-style:italic;">No longer available</p>
+<p style="text-decoration:line-through;">The Hangar 360 app will fly your drone to 300 feet, take 23 still images in different directions and angles, and then land automatically. There's also an option to manually fly it to a location of your choosing, and then activate the picture-taking. At any point, you can take over control (which is probably a good idea for landing). After it lands, *don't turn off the drone*. Wait for the images to transfer from the drone to your device. After the images have been copied to your device, you can choose to upload them to Hangar's cloud processing services. They will stitch the images together, and send you a URL. The results are spectacular. The one potential caveat about Hangar is that if you use their cloud processing services, your 360 will be publicly viewable.</p>
+</td>
+</tr>
+
 
 </table>
 

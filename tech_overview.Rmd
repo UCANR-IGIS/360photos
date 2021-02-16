@@ -1,4 +1,4 @@
-# Technology Overview {.hidden}
+# Technology Overview
 
 ![](images/work-in-progress_200x118.png)
 

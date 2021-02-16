@@ -8,6 +8,7 @@ bookdown::gitbook:
   config:
     toc:
       collapse: none
+      toc_depth: 2
       after: |
         <li><a href="http://igis.ucanr.edu/" target="_blank"><img src="images/igis-anr_horiz-stacked_260x65.png" style="margin-left:-1em; margin-top:-1em;"></a></li>
     download: ["epub"]

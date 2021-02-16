@@ -14,4 +14,8 @@ rmd_files: ["index.Rmd",
             "thetasc.Rmd", 
             "gsv.Rmd", 
             "helmet-mount.Rmd",
+            "litchi.Rmd",
             "workshop.Rmd"]
+language:
+  ui:
+    appendix_name: "Appendix "
