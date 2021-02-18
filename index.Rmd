@@ -18,8 +18,6 @@ knitr::include_url("https://roundme.com/embed/VWUCq5qEIqCTeF6Hh6CG")
 
 # Preface {-}
 
-## Intro {-}
-
 360 photos provide immersive viewing experiences and are easier and cheaper than ever to create. People and organizations are using 360 photos to share experiences, show what a place looks like in person, and convey all sorts of information about a what makes a place unique and special.
 
 Although the equipment and software behind this technology have gotten dramatically easier and cheapr to use, the field is still fairly young. There are a number of hardware options to consider, shooting techniques, software, and dissemiation choices. Ultimately, the choice of tools should match the needs of the project and the amount of time and resources available.
