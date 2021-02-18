@@ -12,6 +12,10 @@ bookdown::gitbook:
       after: |
         <li><a href="http://igis.ucanr.edu/" target="_blank"><img src="images/igis-anr_horiz-stacked_260x65.png" style="margin-left:-1em; margin-top:-1em;"></a></li>
     download: ["epub"]
+    fontsettings:
+      theme: white
+      family: sans
+      size: 3
     edit: https://github.com/ucanr-igis/360photos/edit/master/%s
 bookdown::epub_book:
   dev: svglite

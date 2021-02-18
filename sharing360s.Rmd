@@ -14,22 +14,95 @@ If needed, you can insert EXIF tags that tells FB your photo is a photosphere:
 
 https://www.360toolkit.co/tag-panorama-for-facebook.html
 
-## 360 Tour Platforms
+## Online 360 Tour Platforms
 
 ### RoundMe.com
 
 ### Kuula.com
+
+### Vizor
+
+https://site.vizor.io/
+
+
+### Google Tour Builder
+
+(https://tourbuilder.withgoogle.com/)
 
 ### Google Tour Creator
 
 - https://vr.google.com/tourcreator
 - http://www.direporter.com/products/360o/ricoh-theta-v-googles-tour-creator
 
+### Google Expeditions
+
+
+You can create your own view
 
 ## Offline Tours
 
 ### Pano2VR
 
+### PTGUI
 
+## Creating Custom Dashboards with HTML
+
+You can create your own 360 photo 'dashboard' in HTML. If you have a bunch of panoramas, you can create drop down boxes or other controls in your dashboard that control which panorama is currently shown. This requires some knowledge of HTML and CSS, but you get the customize the look and appearnace of your dashboard.
+
+The 360 images themselves can either be hosted on 3rd party site and embedded into your web page using an iframe, or saved locally and rendered using a JavaScript library like Panellum. 
+
+### Embedding Panoramas from RoundMe
+
+Many people share their 360 photos by bundling them into tours on RoundMe.com. You can also use RoundMe as a hosting platform for use on other sites, such as a custom HTML page or a web map. A free RoundMe account lets you:
+
+- store a large number of 360 photos  
+- upload images up to 10,000x5,000 pixels (which covers nearly all consumer 360 cameras)  
+- render 360 images quickly with plenty of navigation options 
+- add hot spots, portals, and ambient sound  
+- get an embed code to embed the panorama somewhere else
+
+RoundMe.com offers some **paid upgrades** that can help you enhance your dashboard. 
+
+**Account Upgrade**
+
+Upgrading to a **[Pro Account](https://roundme.com/pricing/pro-account){target="_blank" rel="noopener"}** (~$100 / year) allows you to:
+
+- upload high resolution panoramas (up to 65,000 x 32,500 pixels) which will be rendered at multiple resolutions for the fastest performance  
+- add your own branding (logo) to your Tours when viewed on RoundMe.com
+- download your own panoramas  
+- make your tours unlisted
+
+**Tour Upgrades**
+
+In addition to upgrading your Account, you can pay a one-time fee to **upgrade an individual tour**. Tour upgrades can be purchased on either a free or pro account, and cover all the panoramas in the tour. There are two kinds of tour upgrades.
+
+<p style="margin-left:2em;">*Note*: Having a Pro Account does grant you tour upgrade features. Tour upgrades have to be purchased separately.</p>
+
+The **[Privacy and White List](https://help.roundme.com/en/articles/2444359-how-do-i-use-privacy-and-white-list-tour-upgrade-password-protection-for-the-tour){target="_blank" rel="noopener"}** tour upgrade ($10) allows you to assign a password to the tour, and/or restrict which internet domains a tour can be embedded from.
+
+The **[Pro Embed](https://roundme.com/pricing/pro-embed){target="_blank" rel="noopener"}** upgrade ($15) allows you to fine-tune the appearance and functionality of your embedded panoramas. This includes overlaying your logo, controlling whether or not the embed displays a splash screen, selecting which controls appear, abd [customizing the icons](https://help.roundme.com/en/articles/2444355-how-do-i-customize-the-hotspot-and-portal-icons){target="_blank" rel="noopener"} for hotspots and portals, etc. 
+
+<p style="margin-left:2em;">*Tip*: normally when you embed a tour, the first panorama of the tour is whatever the "home panorama" happens to be. The Pro Embed upgrade allows you to generate an embed code for each individual panorama. This gives you the ability to embed all panoramas in a tour individually with a single tour upgrade.</p>
+
+**Controlling Access to Your 360s**
+
+If your images are sensitive, and/or you want to control access to them, your options with RoundMe include:
+
+- upgrade to a Pro Account which will allow you to make your tour unlisted (i.e., available only to those wit the link)
+
+- pay for the Privacy and White List upgrade for a tour, which will allow you to add a password to the tour, and/or restrict which website domains (URLs) the tour can be embedded from. 
+
+### Panelleum
+
+[Pannellum](https://pannellum.org/){target="_blank" rel="noopener"} is a JavaScript library you can use in your web pages to display interactive 360 photos. For more details, see Appendix XX.
+
+### ArcGIS.com Story Maps
+
+
+
+## Data Management
+
+Transferring images from the camera to your laptop
+ - USB - use copy-paste, not cut-paste.
 
 
