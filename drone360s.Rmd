@@ -39,7 +39,7 @@ To take a 360 photo with one of these apps, you manually fly to your photo locat
 
 These apps actually have 4 panorama modes - sphere (full 360), 180 (very wide), horizontal (less wide), and vertical. For details, see the app documentation or tutorials like [this one for DJI GO 4](https://www.youtube.com/watch?v=8DoHaxWpu1s){target="_blank" rel="noopener"} on YouTube.
 
-The panorama stitched in the app is relatively low resolution (4096 x 2048), so while its great as a preview and may be fine for social media, it may not be the ultimate product. Fortunately One of the nice features of these apps is that the photos the drone takes remain on the memory card. This gives you the option of stitching them with your own software if you want a higher resolution or want to manually correct some of the edges.
+The panorama stitched in the app is relatively low resolution (4096 x 2048), so while its great as a preview and may be fine for social media, it may not be your ultimate product. Fortunately these apps save the images taken to the memory card, giving you the option of stitching them with your own software if you want a higher resolution or want to manually correct some of the edges.
 
 </td>
 </tr>

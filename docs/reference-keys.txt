@@ -48,7 +48,7 @@ ptgui
 creating-custom-dashboards-with-html
 embedding-panoramas-from-roundme
 panelleum
-arcgis.com-story-maps
+arcgis.com-web-maps-and-story-maps
 data-management
 drone-360s
 why-drone-360-photos

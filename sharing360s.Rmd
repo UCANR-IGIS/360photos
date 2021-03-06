@@ -47,21 +47,23 @@ You can create your own view
 
 ## Creating Custom Dashboards with HTML
 
-You can create your own 360 photo 'dashboard' in HTML. If you have a bunch of panoramas, you can create drop down boxes or other controls in your dashboard that control which panorama is currently shown. This requires some knowledge of HTML and CSS, but you get the customize the look and appearnace of your dashboard.
+You can create your own 'dashboard' of 360 photos using HTML. If you have a bunch of panoramas, you can create drop down boxes or other form controls in your dashboard that control which panorama is currently shown. This requires some knowledge of HTML, CSS, and JavaScript, but it allows you to customize the look and appearance of your dashboard.
 
-The 360 images themselves can either be hosted on 3rd party site and embedded into your web page using an iframe, or saved locally and rendered using a JavaScript library like Panellum. 
+The 360 images themselves can either be hosted on a 3rd party site like RoundMe or Kuula and embedded into your web page using an iframe, or saved locally and rendered with a JavaScript library like Pannellum. 
 
 ### Embedding Panoramas from RoundMe
 
-Many people share their 360 photos by bundling them into tours on RoundMe.com. You can also use RoundMe as a hosting platform for use on other sites, such as a custom HTML page or a web map. A free RoundMe account lets you:
+Some people share their 360 photos by bundling them into tours on RoundMe.com. That works great if you're happy with RoundMe's Tour features, but you can also use RoundMe as a hosting platform for use on other sites, such as a custom HTML page or a web map. A free RoundMe account lets you:
 
-- store a large number of 360 photos  
-- upload images up to 10,000x5,000 pixels (which covers nearly all consumer 360 cameras)  
+- store a large number of 360 photos (limited only by the number of uploads per week)  
+- upload images up to 10,000 x 5,000 pixels (which covers nearly all consumer 360 cameras)  
 - render 360 images quickly with plenty of navigation options 
 - add hot spots, portals, and ambient sound  
 - get an embed code to embed the panorama somewhere else
 
-RoundMe.com offers some **paid upgrades** that can help you enhance your dashboard. 
+\
+
+RoundMe.com also offers some **paid upgrades** that can help you enhance your dashboard. 
 
 **Account Upgrade**
 
@@ -78,11 +80,11 @@ In addition to upgrading your Account, you can pay a one-time fee to **upgrade a
 
 <p style="margin-left:2em;">*Note*: Having a Pro Account does grant you tour upgrade features. Tour upgrades have to be purchased separately.</p>
 
-The **[Privacy and White List](https://help.roundme.com/en/articles/2444359-how-do-i-use-privacy-and-white-list-tour-upgrade-password-protection-for-the-tour){target="_blank" rel="noopener"}** tour upgrade ($10) allows you to assign a password to the tour, and/or restrict which internet domains a tour can be embedded from.
+The **[Privacy and White List](https://help.roundme.com/en/articles/2444359-how-do-i-use-privacy-and-white-list-tour-upgrade-password-protection-for-the-tour){target="_blank" rel="noopener"}** tour upgrade ($10) allows you to assign a password to the tour, and/or restrict which internet domains (i.e. websites) a tour can be embedded from.
 
-The **[Pro Embed](https://roundme.com/pricing/pro-embed){target="_blank" rel="noopener"}** upgrade ($15) allows you to fine-tune the appearance and functionality of your embedded panoramas. This includes overlaying your logo, controlling whether or not the embed displays a splash screen, selecting which controls appear, abd [customizing the icons](https://help.roundme.com/en/articles/2444355-how-do-i-customize-the-hotspot-and-portal-icons){target="_blank" rel="noopener"} for hotspots and portals, etc. 
+The **[Pro Embed](https://roundme.com/pricing/pro-embed){target="_blank" rel="noopener"}** upgrade ($15) allows you to fine-tune the appearance and functionality of your embedded panoramas. This includes overlaying your logo, controlling whether or not the embed displays a splash screen, selecting which controls appear, and [customizing the icons](https://help.roundme.com/en/articles/2444355-how-do-i-customize-the-hotspot-and-portal-icons){target="_blank" rel="noopener"} for hotspots and portals. 
 
-<p style="margin-left:2em;">*Tip*: normally when you embed a tour, the first panorama of the tour is whatever the "home panorama" happens to be. The Pro Embed upgrade allows you to generate an embed code for each individual panorama. This gives you the ability to embed all panoramas in a tour individually with a single tour upgrade.</p>
+<p style="margin-left:2em;">*Tip*: normally when you embed a tour, the first panorama of the tour is whatever the "home panorama" is set to be. The Pro Embed upgrade allows you to generate an embed code for each individual panorama. This gives you the ability to embed all panoramas in a tour individually with a single tour upgrade.</p>
 
 **Controlling Access to Your 360s**
 
@@ -96,7 +98,7 @@ If your images are sensitive, and/or you want to control access to them, your op
 
 [Pannellum](https://pannellum.org/){target="_blank" rel="noopener"} is a JavaScript library you can use in your web pages to display interactive 360 photos. For more details, see Appendix XX.
 
-### ArcGIS.com Story Maps
+### ArcGIS.com Web Maps and Story Maps
 
 
 
@@ -104,5 +106,9 @@ If your images are sensitive, and/or you want to control access to them, your op
 
 Transferring images from the camera to your laptop
  - USB - use copy-paste, not cut-paste.
+
+Use naming standards
+
+ - see also the Guidelines for 360 Data Management
 
 
